@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
 
     // Add posts collection
     eleventyConfig.addCollection("posts", function(collection) {
-        return collection.getFilteredByGlob("src/posts/*.md");
+        return collection.getFilteredByGlob("src/posts/*.md").reverse().slice(0, 3);
     });
 
     return {

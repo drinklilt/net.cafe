@@ -1,6 +1,7 @@
 ---
 title: War Driving 2023
 author: its.ghriz
+date: 2024-01-01
 ---
 
 

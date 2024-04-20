@@ -5,7 +5,8 @@
   "events": [
     {
       "name": "Scale 21x",
-      "when": "March 14th - 17th, 2024"
+      "when": "March 14th - 17th, 2024",
+      "link": "https://www.socallinuxexpo.org/scale/21x"
     },
     {
       "name": "LinuxFest Northwest",
